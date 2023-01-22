@@ -1,5 +1,5 @@
 # 100-days-of-code
 
-Every day at least two coding problems to be solved from a chosen topic.
+Two problems a day for 100 days
 
 * Day - 1 : Sliding Window
