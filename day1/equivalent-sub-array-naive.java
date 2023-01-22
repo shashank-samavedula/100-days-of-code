@@ -22,4 +22,4 @@ static int countDistinctSubarray(int arr[], int n)
          return count;
     }
     
-//Time Complexity : O(n*n)
+//Time Complexity : O(n^2)
