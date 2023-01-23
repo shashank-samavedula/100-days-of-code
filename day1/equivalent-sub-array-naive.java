@@ -23,3 +23,4 @@ static int countDistinctSubarray(int arr[], int n)
     }
     
 //Time Complexity : O(n^2)
+//Space Complexity : O(n^2)
