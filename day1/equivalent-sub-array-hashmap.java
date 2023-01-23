@@ -45,3 +45,4 @@ static int countDistinctSubarray(int a[], int n)
     }
 
 //Time Complexity : O(n)
+//Space Complexity : O(n^2)
